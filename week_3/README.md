@@ -44,10 +44,10 @@ For a deep dive, the combinatorics section in CP-Algorithms is highly recommende
 | Problem Name | Link |
 | :--- | :--- |
 | Binomial Coefficients | [cses.fi/problemset/task/1079](https://cses.fi/problemset/task/1079) |
-| Creating Strings II | [cses.fi/problemset/task/1070](https://cses.fi/problemset/task/1070) |
+| Creating Strings II | [cses.fi/problemset/task/1070](https://cses.fi/problemset/task/1715) |
 | Distributing Apples | [cses.fi/problemset/task/1716](https://cses.fi/problemset/task/1716) |
 | Christmas Party | [cses.fi/problemset/task/1717](https://cses.fi/problemset/task/1717) |
-| Permutation Order | [cses.fi/problemset/task/1713](https://cses.fi/problemset/task/1713) |
+| Permutation Order | [cses.fi/problemset/task/1713](https://cses.fi/problemset/task/3397) |
 | Permutation Rounds | [cses.fi/problemset/task/2216](https://cses.fi/problemset/task/2216) |
 | Bracket Sequences I | [cses.fi/problemset/task/2189](https://cses.fi/problemset/task/2189) |
 | Bracket Sequences II | [cses.fi/problemset/task/2188](https://cses.fi/problemset/task/2188) |
